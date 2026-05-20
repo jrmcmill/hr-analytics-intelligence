@@ -53,6 +53,7 @@ shapely==2.1.2
 six==1.17.0
 stack-data==0.6.3
 statsmodels==0.14.6
+streamlit>=1.36,<2
 termcolor==3.3.0
 tornado==6.5.5
 traitlets==5.15.0
